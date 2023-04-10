@@ -1,0 +1,3 @@
+W zadaniu G dla metody Jacobiego i Gaussa-Seidla dają wyniki rozbierzne.
+Metoda Jacobiego skończyła z normą błędu rezydalnego równym: 254.2894, więc wynik jest bardzo słaby. 
+Metoda Gaussa-Seidla na koniec miała normę błędu rezdalnego równą: 4.5044 co jest wynikiem o wiele lepszym od metody Jacobiego ale o wiele lepsza okazała się metoda Gaussa, która miała normę równą: 7.08 * 10^-13.

@@ -1,0 +1,2 @@
+a) Najszybszą metodą okazała się metoda Gaussa-Seidla.
+b) Najmniej iteracji potrzebuje metoda Gaussa. Obliczenie dla r robimy raz. Z dwóch pozostałych to metoda Gaussa-Seidla wymagała mniej iteracji ale same obliczenia trwały dłużej.
